@@ -1,5 +1,6 @@
+pillow
 pandas
 streamlit
+streamlit_option_menu
 streamlit_lottie
 streamlit_timeline
-streamlit_option_menu
