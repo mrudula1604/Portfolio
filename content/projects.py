@@ -88,8 +88,7 @@ def projects_page():
             -  Redesigned the Costco website on Figma to make it more accessible to enhance project strategies for optimal user satisfaction and engagement encompassing User journey mapping, MoSCoW approach and five planes of UX. 
             -  Improvised the membership signup, Search bar, cart experience and checkout process by implementing comprehensive User Experience research methods.
             - Designed a high-fidelity prototype with proper Interactions and Consistency and evaluated use cases to design the workflows.
-            - Built to scale accordingly using cross-work functionalities, which could work natively across different modules.
-            - Implemented CRUD operations for admins and created work area management for each role under each division <a href="https://www.figma.com/design/qsUlDB52LNN92BQfedim8E/Untitled?node-id=1-2&m=dev"> Link</a>
+            -  <a href="https://www.figma.com/design/qsUlDB52LNN92BQfedim8E/Untitled?node-id=1-2&m=dev"> Link</a>
         """, unsafe_allow_html=True)
 
         st.subheader("Dollar Tree App")
@@ -100,9 +99,10 @@ def projects_page():
 
         st.subheader("Credit Card Fraud Analysis")
         st.markdown("""
-            - Developed a system to provide administrative support to healthcare facilities using Java Swing.
-            - Built to scale accordingly using cross-work functionalities, which could work natively across different modules.
-            - Implemented CRUD operations for admins and created work area management for each role under each division <a href="https://github.com/mrudula1604/FraudAnalysis"> Link</a>
+            - Engineered a fraud detection system, incorporating Decision Tree, Support Vector Machines, Naïve Bayes and Logistic Regression. Leveraged Python libraries efficient data preprocessing, Exploratory Data Analysis, feature engineering, model training and evaluation.
+	- Compared model accuracies in fraud detection analysis and the best model resulted in 99% accuracy ensuring a fine balance between minimizing false positives and false negatives.
+- Applied the stacked model to historical credit card transactions, showcasing a substantial 24% reduction in identified fraudulent cases.
+ <a href="https://github.com/mrudula1604/FraudAnalysis"> Link</a>
         """, unsafe_allow_html=True)
 
 
