@@ -85,22 +85,17 @@ def projects_page():
         
         st.subheader("Costco Website")
         st.markdown("""
-     -  Redesigned the Costco website on Figma to make it more accessible to enhance project strategies for optimal user satisfaction and 
-engagement encompassing User journey mapping, MoSCoW approach and five planes of UX.
-Improvised the membership signup, Search bar, cart experience and checkout process by implementing comprehensive User Experience 
-research methods.
-   Designed a high-fidelity prototype with proper Interactions and Consistency and evaluated use cases to design the workflows.
+            -  Redesigned the Costco website on Figma to make it more accessible to enhance project strategies for optimal user satisfaction and engagement encompassing User journey mapping, MoSCoW approach and five planes of UX. 
+            -  Improvised the membership signup, Search bar, cart experience and checkout process by implementing comprehensive User Experience research methods.
+            - Designed a high-fidelity prototype with proper Interactions and Consistency and evaluated use cases to design the workflows.
             - Built to scale accordingly using cross-work functionalities, which could work natively across different modules.
             - Implemented CRUD operations for admins and created work area management for each role under each division <a href="https://www.figma.com/design/qsUlDB52LNN92BQfedim8E/Untitled?node-id=1-2&m=dev"> Link</a>
         """, unsafe_allow_html=True)
 
         st.subheader("Dollar Tree App")
         st.markdown("""
-            - Piloted a transformative product design initiative with a cross-functional team to migrate Dollar Tree's e-commerce platform into a 
-user-friendly mobile app, leveraging comprehensive user research methodologies encompassing user personas, empathy maps, 
-storyboarding, affinity mapping, and SWOT analysis.
- Crafted high-fidelity prototypes, wireframes, and mockups on Figma, adhering to visual design principles such as typography and 
-design patterns, resulting in an optimal and visually captivating user interface.  <a href="https://www.figma.com/design/fNiDDXF0bLh58TvX8v76Ia/Dollar-Tree-App?node-id=0-1&m=dev"> Link</a>
+            - Piloted a transformative product design initiative with a cross-functional team to migrate Dollar Tree's e-commerce platform into a user-friendly mobile app, leveraging comprehensive user research methodologies encompassing user personas, empathy maps, storyboarding, affinity mapping, and SWOT analysis.
+            - Crafted high-fidelity prototypes, wireframes, and mockups on Figma, adhering to visual design principles such as typography and design patterns, resulting in an optimal and visually captivating user interface.  <a href="https://www.figma.com/design/fNiDDXF0bLh58TvX8v76Ia/Dollar-Tree-App?node-id=0-1&m=dev"> Link</a>
         """, unsafe_allow_html=True)
 
         st.subheader("Credit Card Fraud Analysis")
